@@ -13,8 +13,7 @@ Follow these steps to install the Face Detection App:
 ### Prerequisites
 
 - Node.js
-- Python (version X.X or higher)
-- [Any other necessary software or libraries]
+- Python (version 3.9)
 
 ### Instructions
 
